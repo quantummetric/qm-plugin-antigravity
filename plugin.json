@@ -2,7 +2,7 @@
   "name": "quantum-metric",
   "displayName": "Quantum Metric",
   "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues across web and mobile apps",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "logo": "logo.png",
   "author": {
     "name": "Quantum Metric",
