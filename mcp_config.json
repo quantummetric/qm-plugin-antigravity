@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "quantum-metric": {
+      "serverUrl": "https://api.quantummetric.com/mcp"
+    }
+  }
+}

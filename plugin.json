@@ -1,0 +1,28 @@
+{
+  "name": "quantum-metric",
+  "displayName": "Quantum Metric",
+  "description": "Analyze funnels, errors, friction and session replays in Quantum Metric to find and fix digital experience issues across web and mobile apps",
+  "version": "0.2.2",
+  "logo": "logo.png",
+  "author": {
+    "name": "Quantum Metric",
+    "email": "support@quantummetric.com",
+    "url": "https://www.quantummetric.com"
+  },
+  "homepage": "https://www.quantummetric.com",
+  "repository": "https://github.com/quantummetric/qm-plugin-antigravity",
+  "license": "MIT",
+  "keywords": [
+    "quantum-metric",
+    "analytics",
+    "session-replay",
+    "digital-experience",
+    "funnels",
+    "observability"
+  ],
+  "suggestedPrompts": [
+    "Where are customers dropping out of checkout this week?",
+    "What are the top errors affecting conversion right now?",
+    "Review this session and tell me what went wrong."
+  ]
+}
